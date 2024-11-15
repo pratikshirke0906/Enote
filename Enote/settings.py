@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-kju1hw-98a&#3k#uce%k#&woed@b0xxv19e@^-1_vsxc016bjg
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['enote-laj6.onrender.com']
 
 
 # Application definition
